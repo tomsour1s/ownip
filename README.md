@@ -20,10 +20,9 @@ Using it...
 -----------
 
 ```python
-from ownip import OwnIp
+import ownip
 
-ip_dict = OwnIp.get_ip()
-print(ip_dict)
+print(ownip.get_ip())
 ```
 
 
@@ -31,7 +30,7 @@ print(ip_dict)
 Changelog
 ---------
 
-v1.0.0- 28/08/2022
+v1.0.1- 28/08/2022
 
 ~~~~~~~~~~~~~~~~~
 First Release :)

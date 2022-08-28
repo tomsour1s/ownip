@@ -1,4 +1,3 @@
-from ownip import OwnIp
+import ownip 
 
-ip_dict = OwnIp.get_ip()
-print(ip_dict)
+print(ownip.get_ip())
