@@ -22,7 +22,7 @@ Using it...
 ```python
 import ownip
 
-print(ownip.get_ip())
+print(ownip.get())
 ```
 
 
