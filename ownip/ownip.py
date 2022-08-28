@@ -1,6 +1,6 @@
 from .Requests import Requests
 
-def get_ip():
+def get():
     """ Get your current public IP-Address 
     
     Returns:

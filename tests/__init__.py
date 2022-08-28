@@ -1,1 +1,1 @@
-from .test_pymyip import *
+from .test_ownip import *
